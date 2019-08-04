@@ -1,0 +1,12 @@
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\EntityFramworkAPI\Googlekeeps\GoogleKeepProject\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CopyComplete
