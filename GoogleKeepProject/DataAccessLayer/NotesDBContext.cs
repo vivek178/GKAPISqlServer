@@ -1,6 +1,5 @@
 ﻿using Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace DataAccessLayer
 {
@@ -22,6 +21,7 @@ namespace DataAccessLayer
             modelBuilder.Entity<Label>().HasKey( l => new { l.LabelID});
         }
 
+        // Dbset for Notes and Labels class.
         public DbSet<Notes> notes { get; set; }
         public DbSet<Label> labels { get; set; }
     }

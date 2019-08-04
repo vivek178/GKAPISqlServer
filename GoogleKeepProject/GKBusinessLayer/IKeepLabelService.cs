@@ -1,10 +1,11 @@
 ﻿using Entities;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace GKBusinessLayer
 {
+    /// <summary>
+    /// Interface for Accessing the properties of Label Class.
+    /// </summary>
     public interface IKeepLabelService
     {
         List<Label> GetLabels();

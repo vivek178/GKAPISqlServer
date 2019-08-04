@@ -1,9 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace GKBusinessLayer.CustomExceptions
 {
+    /// <summary>
+    /// Custom Exception classes for Labels.
+    /// </summary>
     public class LabelNotFoundExeception : ApplicationException
     {
         public LabelNotFoundExeception() { }

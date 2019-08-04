@@ -1,10 +1,11 @@
 ﻿using Entities;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace DataAccessLayer
 {
+    /// <summary>
+    /// Inteface for Accessing properties of Notes class.
+    /// </summary>
     public interface IKeepNotes
     {
         int CreateNote(Notes notes);

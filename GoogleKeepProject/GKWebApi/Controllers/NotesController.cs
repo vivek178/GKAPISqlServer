@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Entities;
+﻿using Entities;
 using GKBusinessLayer;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System;
 
 namespace GKWebApi.Controllers
 {
+    /// <summary>
+    /// Labels Contoller for accessing the Notes DataBase.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class NotesController : ControllerBase
@@ -70,7 +69,7 @@ namespace GKWebApi.Controllers
         }
 
         // PUT: api/Notes/5
-        [HttpPut("{id}")]
+        [HttpPut]
         public IActionResult Put([FromBody] Notes notes)
         {
             try

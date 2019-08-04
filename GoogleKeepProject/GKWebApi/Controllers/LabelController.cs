@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Entities;
+﻿using Entities;
 using GKBusinessLayer;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GKWebApi.Controllers
 {
+    /// <summary>
+    /// Labels Contoller for accessing the Label DataBase.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class LabelController : ControllerBase
