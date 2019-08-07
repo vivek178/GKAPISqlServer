@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj",
+      "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\CGI\\.nuget\\packages\\",
-      "outputPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\obj\\",
+      "outputPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3507,11 +3507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj",
+      "projectUniqueName": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj",
       "projectName": "GKBusinessLayer",
-      "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj",
+      "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj",
       "packagesPath": "C:\\Users\\CGI\\.nuget\\packages\\",
-      "outputPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKBusinessLayer\\obj\\",
+      "outputPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKBusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3530,11 +3530,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj"
+            "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj"
             }
           }
         }

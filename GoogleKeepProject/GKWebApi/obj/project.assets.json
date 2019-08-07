@@ -12998,11 +12998,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKWebApi\\GKWebApi.csproj",
+      "projectUniqueName": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKWebApi\\GKWebApi.csproj",
       "projectName": "GKWebApi",
-      "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKWebApi\\GKWebApi.csproj",
+      "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKWebApi\\GKWebApi.csproj",
       "packagesPath": "C:\\Users\\CGI\\.nuget\\packages\\",
-      "outputPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKWebApi\\obj\\",
+      "outputPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13021,11 +13021,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj"
+            "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj"
             },
-            "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj": {
-              "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj"
+            "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj": {
+              "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\GKBusinessLayer\\GKBusinessLayer.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\CGI\\.nuget\\packages\\",
-        "outputPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj"
+              "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj": {
+    "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\CGI\\.nuget\\packages\\",
-        "outputPath": "C:\\EntityFramworkAPI\\Googlekeeps\\GoogleKeepProject\\Entities\\obj\\",
+        "outputPath": "C:\\EntityFramworkAPI\\GooglekeepsWithSqlServer\\GoogleKeepProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
